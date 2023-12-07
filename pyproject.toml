@@ -1,0 +1,8 @@
+[project]
+name = "route-checker-thing"
+version = "0.0.1"
+description = "this aint working yet"
+
+dependencies = [
+    "configparser>6.0.0"
+]
